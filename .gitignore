@@ -29,6 +29,11 @@ env/
 chroma/
 *.sqlite3
 *.db
+# Chroma DB / Vector DB
+chroma/
+*.bin
+*.sqlite3
+*.parquet
 
 # ===== FILES GENERATED =====
 uploads/

@@ -18,3 +18,5 @@ pytesseract>=0.3.10
 ipython
 ddgs
 python-dotenv>=1.0.0
+uv
+
