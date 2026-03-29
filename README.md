@@ -187,21 +187,20 @@ Human In The Loop
 <img width="1908" height="1045" src="https://github.com/user-attachments/assets/b23c5bf1-2b42-4d23-b2a3-9bc95c9a89a1" />
 2. Upload PDF
 <img width="605" height="732" src="https://github.com/user-attachments/assets/d00af838-d686-44d0-9468-6739768e06eb" />
+
 3. Conversation chatbot
 
-(Ajouter capture ici)
+
 
 4. Réponse RAG
 
-(Ajouter capture ici)
 
 5. Mémoire conversationnelle
 
-(Ajouter capture ici)
+
 
 6. Human in the Loop
 
-(Ajouter capture ici)
 
 ✅ Résultat attendu
 
