@@ -1,0 +1,45 @@
+.env
+.env.*
+*.env
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
+
+.venv/
+venv/
+env/
+
+.uv/
+.python-version
+
+.vscode/
+.idea/
+
+.ipynb_checkpoints/
+
+*.log
+
+# ===== STREAMLIT =====
+.streamlit/
+
+# ===== DATA / RAG =====
+chroma/
+*.sqlite3
+*.db
+
+# ===== FILES GENERATED =====
+uploads/
+data/
+*.pdf
+*.csv
+
+# ===== BUILD =====
+dist/
+build/
+
+# ===== TEMP =====
+*.tmp
+*.temp

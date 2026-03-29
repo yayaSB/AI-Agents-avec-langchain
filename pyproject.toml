@@ -1,0 +1,27 @@
+[project]
+name = "agentlangchain"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "chromadb>=0.5.0",
+    "ddgs>=9.11.4",
+    "duckduckgo-search>=5.3.0",
+    "ipykernel>=6.29.0",
+    "ipython>=9.12.0",
+    "langchain>=0.2.0",
+    "langchain-community>=0.2.0",
+    "langchain-experimental>=0.0.60",
+    "langchain-ollama>=0.1.0",
+    "langchain-openai>=0.1.0",
+    "langgraph>=0.0.60",
+    "openai>=1.30.0",
+    "pillow>=10.0.0",
+    "pypdf>=4.0.0",
+    "pytesseract>=0.3.10",
+    "python-dotenv>=1.0.0",
+    "streamlit>=1.35.0",
+    "tavily-python>=0.3.0",
+    "tiktoken>=0.7.0",
+]
